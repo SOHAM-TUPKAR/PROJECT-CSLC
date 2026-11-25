@@ -1,7 +1,8 @@
 # PROJECT-CSLC
 cascading server log correlator
-by 
-SOHAM TUPKAR(leader & backend)
-GAURI PANICKER(frontend)
-SIDDHI KAMBLE(AI)
+<br>
+by   <br>
+SOHAM TUPKAR(leader & backend)  <br>
+GAURI PANICKER(frontend)        <br>
+SIDDHI KAMBLE(AI)                <br>
 YOGITA PATIL(Pitch & database)
